@@ -1,8 +1,8 @@
 ### Olá! Eu sou Mesquitta06👋
 
-- 🔭 Atualmente Analista de Suporte Field Service
+- 🔭 Support Analyst
 - ❤️ Apaixonado por Flutter
-- 📚 Estudando Node.JS
+- 📚 Estudante de  Node.JS
 - 👯 Aspirante a Full Stack Developer
 
 
