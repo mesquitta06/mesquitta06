@@ -1,6 +1,11 @@
-<div align ="center"> <img src="https://github.com/mesquitta06/mesquitta06/blob/main/logomesquitta2.png"></div>
+# Hi, I'm Otavio Mesquitta! :D
 
-  Analista de Sistemas apaixonado por programação web e mobile. Meu objetivo é desenvolver aplicativos da Web escaláveis, de fácil manutenção e fáceis de usar que forneçam uma experiência de usuário perfeita. Estou constantemente aprendendo e experimentando novas tecnologias e frameworks para encontrar as melhores soluções para os problemas em questão.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=)]()
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mesquitta06)](https://www.linkedin.com/in/mesquitta06)
+
+<div align ="center" > <img src="https://github.com/mesquitta06/mesquitta06/blob/main/logomesquitta2.png"></div>
+
+Analista de Sistemas apaixonado por programação web e mobile. Meu objetivo é desenvolver aplicativos da Web escaláveis, de fácil manutenção e fáceis de usar que forneçam uma experiência de usuário perfeita. Estou constantemente aprendendo e experimentando novas tecnologias e frameworks para encontrar as melhores soluções para os problemas em questão.
   
 - 🔭 Atualmente <strong>Analista de suporte N1</strong> buscando transição de carreira para area <strong>DEV</strong>
 - ❤️ Apaixonado por Flutter
@@ -23,3 +28,4 @@
           
  
 </div>
+
