@@ -1,6 +1,8 @@
-### Olá! Eu sou Mesquitta06👋
+<div align ="center"> <img src="https://github.com/mesquitta06/mesquitta06/blob/main/logomesquitta2.png"></div>
 
-- 🔭 Support Analyst
+  Analista de Sistemas apaixonado por programação web e mobile. Meu objetivo é desenvolver aplicativos da Web escaláveis, de fácil manutenção e fáceis de usar que forneçam uma experiência de usuário perfeita. Estou constantemente aprendendo e experimentando novas tecnologias e frameworks para encontrar as melhores soluções para os problemas em questão.
+  
+- 🔭 Atualmente <strong>Analista de suporte N1</strong> buscando transição de carreira para area <strong>DEV</strong>
 - ❤️ Apaixonado por Flutter
 - 📚 Estudante de  Node.JS
 - 👯 Aspirante a Full Stack Developer
