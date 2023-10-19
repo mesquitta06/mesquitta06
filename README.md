@@ -23,9 +23,10 @@
 
 
    <h2> 🎯 Metas Futuras</h2>
--🧠 Estudar os fundamentos de um Desenvolvedor Web FullStack de Sucesso.
--🌟 Compartilhar meu conhecimento e experiências, ensinando e orientando outras pessoas na comunidade de tecnologia.
--🤖 Construir um projeto do zero que impacte positivamente na sociedade.
+- 🧠 Estudar os fundamentos de um Desenvolvedor Web FullStack de Sucesso.
+- 🤖 Construir um projeto do zero que impacte positivamente na sociedade.
+- 🌟 Compartilhar meu conhecimento e experiências, ensinando e orientando outras pessoas na comunidade de tecnologia.
+
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/mesquitta06   ">
