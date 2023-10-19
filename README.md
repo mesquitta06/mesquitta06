@@ -29,7 +29,7 @@
 
   <h2>⭐ Conquistas</h2> 
 - 🏆 Fui indicado ao prêmio HDI Brasil, como Analista de Suporte destque, por propor desenvolvimento de projetos de inovação.
-- 👨🏽‍💻 Participante do programa Acelera Devs um programa de desennolvimento e capacitação de profissionais na area DEV, em parceria com a Alura.
+- 👨🏽‍💻 Participante do programa Acelera Devs um programa de desenvolvimento e capacitação de profissionais na area DEV, em parceria com a Alura.
 - 📄 Certificação Agil -Scrum Foundation.
 - ✅ Vários certificados de cursos na area de desenvolvimento <strong> Node.js, Flutter , Javascript, Firebase</strong>
 
