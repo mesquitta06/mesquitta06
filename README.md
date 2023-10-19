@@ -17,6 +17,11 @@
 - 📚 Atualmente estudando React.
 - 👯 Aspirante a Full Stack Developer
 
+  <br>
+  <br>
+
+
+
    <h2> 🎯 Metas Futuras</h2>
 -🧠 Estudar os fundamentos de um Desenvolvedor Web FullStack de Sucesso.
 -🌟 Compartilhar meu conhecimento e experiências, ensinando e orientando outras pessoas na comunidade de tecnologia.
